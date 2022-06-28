@@ -1,6 +1,6 @@
 # [Atomic commits](https://www.aleksandrhovhannisyan.com/blog/atomic-git-commits/#:~:text=Atomic%20commits%20make%20it%20easier%20to%20track%20down%20regressions&text=If%20you%20make%20atomic%20commits,other%20areas%20of%20the%20code.)
 
-### Do:
+## Do:
 - ✅ Make small commits with the smallest possible change.
 - ✅ Use `git add` to only add the files relevant to the commit.
 - ✅ Use semantic commit messages.

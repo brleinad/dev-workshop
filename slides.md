@@ -28,6 +28,12 @@ src: ./slides/atomic-commits.md
 src: ./slides/semantic-commits.md
 ---
 ---
+src: ./slides/pr-ownership.md
+---
+---
+src: ./slides/pr-reviews.md
+---
+---
 src: ./slides/deadline-estimates.md
 ---
 ---
@@ -35,12 +41,6 @@ src: ./slides/internal-communication.md
 ---
 ---
 src: ./slides/jira-updates.md
----
----
-src: ./slides/pr-ownership.md
----
----
-src: ./slides/pr-reviews.md
 ---
 ---
 src: ./slides/scope-creep.md
